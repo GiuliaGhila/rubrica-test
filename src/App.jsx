@@ -70,7 +70,8 @@ class App extends Component {
 
               <Route path="/users"  component={Users}/>
 
-              <Route path="/">          
+              <Route path="/">
+                funzione !          
               </Route>
             </Switch>
               </div>
